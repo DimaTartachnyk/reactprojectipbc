@@ -1,0 +1,9 @@
+{
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": ".eslintrc.json",
+  "rules": {
+    "no-console":"warn",
+    "quotes": ["error", "single"],
+    "jsx-quotes": ["error", "single"]
+  }
+}
